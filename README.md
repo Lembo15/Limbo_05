@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 i'm good
 --------
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 * 🌍  I'm based in thail
 * ✉️  You can contact me at [suntiphap.h@ku.th](mailto:suntiphap.h@ku.th)
